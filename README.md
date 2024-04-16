@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">• Estudante de tecnologia e informação- UFERSA.</h2>
+<h2 align="left">• Estudante de tecnologia da informação- UFERSA.</h2>
 
 ###
 
